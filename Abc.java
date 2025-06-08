@@ -1,5 +1,5 @@
 public class Abc {
     public static void main(String[] args) {
-        System.out.println("Hello World from Devanshu Shah");
+        System.out.println("Hello World Devanshu Shah");
     }
 }
